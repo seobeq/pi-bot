@@ -1,2 +1,3 @@
 # pi-bot
- pi-zero-w robot
+Control program for a two wheel robot that uses a l298 motor contoller and a raspberry pi zero-w.
+Libraries include ncurses & wiringPi.
